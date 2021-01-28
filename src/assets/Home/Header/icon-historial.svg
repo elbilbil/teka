@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>2EA11873-C625-49FD-9E75-1999DE667B49</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Mobile---UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.9">
+        <g id="3.-Home" transform="translate(-24.000000, -53.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Header" transform="translate(24.000000, 40.000000)">
+                <g id="icon-historial" transform="translate(0.000000, 13.000000)">
+                    <path d="M9.99038462,0 C4.47115385,0 0,4.48076923 0,10 C0,15.5192308 4.47115385,20 9.99038462,20 C15.5192308,20 20,15.5192308 20,10 C20,4.48076923 15.5192308,0 9.99038462,0 Z M10,18 C5.58173077,18 2,14.4182692 2,10 C2,5.58173077 5.58173077,2 10,2 C14.4182692,2 18,5.58173077 18,10 C18,14.4182692 14.4182692,18 10,18 Z" id="Shape"></path>
+                    <path d="M9.75,5 C9.33578644,5 9,5.33578644 9,5.75 L9,10.9022596 L9,10.9022596 L13.6367029,13.6381266 C13.9775337,13.8392324 14.4165993,13.7310599 14.625,13.39464 C14.8266761,13.0690756 14.7262448,12.6416627 14.4006804,12.4399865 C14.3954598,12.4367526 14.3901965,12.4335881 14.3848918,12.4304939 L10.5,10.1644771 L10.5,10.1644771 L10.5,5.75 C10.5,5.33578644 10.1642136,5 9.75,5 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
